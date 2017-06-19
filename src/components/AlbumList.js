@@ -4,7 +4,7 @@ import { View, Text } from 'react-native';
 
 // make component
 class AlbumList extends Component {
-    componentwillMount() {
+    componentWillMount() {
         console.log('componentWillMount in albumlist');
     }
 
